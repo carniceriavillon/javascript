@@ -1,0 +1,3 @@
+= Este post es de prueba para una futura revisión del libro de javascript
+
+El primer libro a revisar es "Eloquent javascript", luego sigue "Lo bueno de javascript" y finalmente "Usted no sabe javascript".
