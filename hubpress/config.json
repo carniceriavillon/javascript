@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "carniceriavillon",
-    "repositoryName": "javascript",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"carniceriavillon","repositoryName":"javascript","branch":"gh-pages"},"site":{"title":"Revisión del libro \"Eloquent JavaScript\"","description":"Este post es de prueba y por tanto no tiene ningún contenido pertinente.","url":"https://carniceriavillon.github.io/javascript"},"socialnetwork":{},"theme":{"name":"Casper","url":"//carniceriavillon.github.io/javascript/themes/Casper"}}
